@@ -16,26 +16,21 @@
   opacity: 0.3;
   transition: 0.4s;
   font-family: "Lato";
-  background-color: #85bbb1;
+  background-color: rgba(218, 204, 204, 0.662745098);
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.08em;
-  color: #262A3F;
+  color: #000000;
   cursor: pointer;
   border: 1px solid grey;
 }
 
 .theme:hover {
-  background-color: rgba(201, 93, 93, 0.11);
+  background-color: rgb(0, 0, 0);
   opacity: 1;
-  color: #000000;
-}
-
-a {
-  text-decoration: none;
-  color: red;
+  color: #ffffff;
 }
 
 .container {

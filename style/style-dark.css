@@ -20,7 +20,7 @@ body {
   opacity: 0.3;
   transition: 0.4s;
   font-family: "Lato";
-  background-color: #5986cc;
+  background-color: rgba(255, 255, 255, 0.3137254902);
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -28,11 +28,11 @@ body {
   letter-spacing: 0.08em;
   color: #fff;
   cursor: pointer;
-  border: 1px solid grey;
+  border: 1px solid rgb(236, 234, 234);
 }
 
 .theme:hover {
-  background-color: rgba(201, 93, 93, 0.11);
+  background-color: rgb(255, 255, 255);
   opacity: 1;
   color: #000000;
 }
